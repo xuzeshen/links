@@ -3,7 +3,7 @@ useful links for web developer, these links can be comprehensive or focused on a
 
 
 
-## comprehensive
+## Comprehensive
 - [MDN](https://developer.mozilla.org/)
 - [web.dev](https://web.dev/) learn web technology with google
 - [developer.chrome.com](https://developer.chrome.com/) Chrome's official site to help you build Extensions, publish on the Chrome Web Store, optimize your website, and more
@@ -19,4 +19,6 @@ useful links for web developer, these links can be comprehensive or focused on a
 ## Books
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-- []()
+## CSS
+- [flex box 完全理解](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [nth-child vs nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/)
